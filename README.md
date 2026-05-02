@@ -99,6 +99,11 @@ cryptoplace-frontend/<br>
 This project uses a public cryptocurrency API:
 
 https://api.coingecko.com/api/v3
+
+## 🔗 Backend 
+
+This frontend connects with a Spring Boot backend:
+http://localhost:8080
 ## 🎯 Future Improvements
 
 - 📊 Advanced trading dashboard  
@@ -110,3 +115,6 @@ https://api.coingecko.com/api/v3
 ## ❤️ Contribution
 
 Contributions are welcome! Feel free to fork and improve.
+## 💡 Tagline
+
+💰 Explore Crypto. Track Markets. Trade Smarter.
