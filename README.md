@@ -104,6 +104,22 @@ https://api.coingecko.com/api/v3
 
 This frontend connects with a Spring Boot backend:
 http://localhost:8080
+
+## Screen Shots of the frontend
+
+### aboutCrypto page
+
+<img width="1898" height="874" alt="aboutCrypto" src="https://github.com/user-attachments/assets/0db95bd7-f055-4bf5-8b8d-0727015ae4cd" />
+
+### changeCurrency page
+<img width="1905" height="877" alt="changeCurrency" src="https://github.com/user-attachments/assets/971f259b-9f11-41a9-93e4-aa37aafb1c8b" />
+
+### login page
+<img width="1904" height="874" alt="login" src="https://github.com/user-attachments/assets/0d7b2926-78ef-4659-9709-88bb53c17c50" />
+
+### logout page
+<img width="1904" height="874" alt="logout" src="https://github.com/user-attachments/assets/d3ddc537-74e1-4ede-98ea-52105d974aa6" />
+
 ## 🎯 Future Improvements
 
 - 📊 Advanced trading dashboard  
@@ -118,3 +134,4 @@ Contributions are welcome! Feel free to fork and improve.
 ## 💡 Tagline
 
 💰 Explore Crypto. Track Markets. Trade Smarter.
+
